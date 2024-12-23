@@ -80,13 +80,6 @@ This dataset contains various details about employee absenteeism. Below is a des
 12. **Absenteeism Time in Hours** ⏱️  
     - The total time of absence, measured in hours.
 
-
-### 🔧 Data Preprocessing  
-The raw dataset underwent preprocessing to address common data issues, such as:  
-- ⚠️ Handling missing or inconsistent values.  
-- 🛠 Standardizing data formats.  
-- 🧹 Preparing the data for statistical analysis and machine learning.  
-
 ## 🧠 Methodology  
 1. **🔍 Exploratory Data Analysis (EDA):** Understand the data structure and identify key patterns.  
 2. **🛠 Feature Engineering:** Select and transform relevant features to improve model performance.  
